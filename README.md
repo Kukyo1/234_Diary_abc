@@ -18,4 +18,4 @@
     + Запустить проект с использованием https
 + Перейдите на http://localhost:4200/
 
-![](https://i.imgur.com/F9H8MSp.gif)"# 234_Diary_abc" 
+![](https://i.imgur.com/F9H8MSp.gif)
