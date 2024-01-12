@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="main_section">
+        <div class="signup">
+            <p>Sign Up</p>
+        </div>
+        <div class="reg_form">
+        <form class="reg_form" [formGroup]="registerForm" (ngSubmit)="Register()">
+             <div class="input_container">
+                 <i class="fa-solid fa-user" style="color: #000000;">
+                     <input formControlName="name" type="text" placeholder="Your Name">
+                 </i>
+             </div>
+             <span *ngIf="registerForm.get('name')?.invalid && registerForm.get('name')?.touched">This field is required</span>
+             <div class="input_container">
+                 <i class="fa-solid fa-envelope" style="color: #000000;">
+                     <input formControlName="email" type="email" placeholder="Your Email">
+                 </i>
+             </div>
+             <span *ngIf="registerForm.get('email')?.invalid && registerForm.get('email')?.touched">Invalid email</span>
+             <div class="input_container">
+                 <i class="fa-solid fa-lock" style="color: #000000;">
+                     <input formControlName="password" type="password" placeholder="Your Password">
+                 </i>
+             </div>
+             <span *ngIf="registerForm.get('password')?.invalid && registerForm.get('password')?.touched">Password is required</span>
+             <button [disabled]="registerForm.invalid" type="submit" class="btn">Register</button>
+             <span *ngIf=" error != '' ">{{error}}</span>
+        </form>
+        </div>
+    </div>
+</div>

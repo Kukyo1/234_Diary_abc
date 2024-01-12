@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="left_section">
+    <div class="control_panel">
+      <a routerLink="/main/create">
+        <i class="fa-solid fa-plus" style="color: #000000"></i>
+      </a>
+      <a [routerLink]="['/main/edit/', selectedIndex]">
+        <i class="fa-solid fa-pen" style="color: #000000"></i>
+      </a>
+      <i class="fa-solid fa-trash" style="color: #000000"></i>
+    </div>
+    <ng-container *ngFor="let note of notes; let i = index">
+      <div class="line_container">
+        <div class="line"></div>
+      </div>
+      <div
+        class="snippet"
+        (click)="onClick(i)"
+        [ngClass]="{ highlight: selectedIndex === i }"
+      >
+        <h3 class="title">{{ note.title }}</h3>
+        <span
+          class="note_body"
+          style="font-weight: normal !important"
+          [innerHTML]="note.body"
+        ></span>
+      </div>
+    </ng-container>
+  </div>
+  <div class="note_container">
+    <div *ngIf="title" class="note_section">
+      <h2 class="note_title">{{ title }}</h2>
+      <span class="body_container" [innerHTML]="body | htmlStyle"></span>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="main_section">
+        <div class="signup">
+            <p>Sign In</p>
+        </div>
+        <div class="reg_form">
+        <form [formGroup]="loginForm" class="reg_form" (ngSubmit)="Login()">
+             <div class="input_container">
+                 <i class="fa-solid fa-envelope" style="color: #000000;">
+                     <input formControlName="email" type="email" placeholder="Your Email">
+                 </i>
+             </div>
+             <span *ngIf="loginForm.get('email')?.touched && loginForm.get('email')?.invalid">Invalid email</span>
+             <div class="input_container">
+                 <i class="fa-solid fa-lock" style="color: #000000;">
+                     <input formControlName="password" type="password" placeholder="Your Password">
+                 </i>
+             </div>
+             <span *ngIf="loginForm.get('password')?.touched && loginForm.get('password')?.invalid">Password is required</span>
+             <button type="submit" class="btn">Login</button>
+             <span *ngIf="error != '' ">{{error}}</span>
+        </form>
+        </div>
+    </div>
+</div>

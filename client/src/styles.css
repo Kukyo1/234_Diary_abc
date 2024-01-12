@@ -1,0 +1,50 @@
+/* You can add global styles to this file, and also import other style files */
+
+.angular-editor {
+  margin-top: 44px;
+}
+.angular-editor-toolbar-set {
+  font-size: 24px;
+  margin-left: 8px;
+  margin-right: 0px !important;
+}
+.angular-editor-toolbar {
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+  padding-left: 8px !important;
+  padding-right: 8px !important;
+}
+.angular-editor-button {
+  border-radius: 4px;
+  font-size: 20px;
+}
+.select-heading {
+  border-radius: 8px !important;
+  width: 100px !important;
+}
+.te-basic-tools {
+  border-radius: 20px;
+}
+.ae-picker-label {
+  border-radius: 8px;
+}
+
+.angular-editor-wrapper {
+  margin-top: 8px;
+}
+.angular-editor-textarea {
+  border-radius: 8px;
+}
+
+.angular-editor-placeholder {
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+}
+
+.note_body b {
+  font-weight: normal;
+}

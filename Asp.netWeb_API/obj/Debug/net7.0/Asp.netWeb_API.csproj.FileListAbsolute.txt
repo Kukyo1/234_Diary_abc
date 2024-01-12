@@ -1,0 +1,150 @@
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\appsettings.json
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.exe
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.deps.json
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.runtimeconfig.json
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.pdb
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.AssemblyReference.cache
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.AssemblyInfoInputs.cache
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.AssemblyInfo.cs
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.CoreCompileInputs.cache
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.Asp.netWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Asp.netWeb_API.props
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Asp.netWeb_API.props
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Asp.netWeb_API.props
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\scopedcss\bundle\Asp.netWeb_API.styles.css
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.CopyComplete
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\refint\Asp.netWeb_API.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.pdb
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.genruntimeconfig.cache
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\obj\Debug\net7.0\ref\Asp.netWeb_API.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mrrem\Desktop\C# projects\Asp.netWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\appsettings.json
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.exe
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.deps.json
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.runtimeconfig.json
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.pdb
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Humanizer.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Npgsql.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.AssemblyReference.cache
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.AssemblyInfoInputs.cache
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.AssemblyInfo.cs
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.CoreCompileInputs.cache
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.Asp.netWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Asp.netWeb_API.props
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Asp.netWeb_API.props
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Asp.netWeb_API.props
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\scopedcss\bundle\Asp.netWeb_API.styles.css
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.CopyComplete
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\refint\Asp.netWeb_API.dll
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.pdb
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.genruntimeconfig.cache
+D:\Projects\C#_projects\C# projects\Asp.netWeb_API\obj\Debug\net7.0\ref\Asp.netWeb_API.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\appsettings.json
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.exe
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.deps.json
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.runtimeconfig.json
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Asp.netWeb_API.pdb
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Npgsql.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\Diary\Asp.netWeb_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.AssemblyReference.cache
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.AssemblyInfoInputs.cache
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.AssemblyInfo.cs
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.CoreCompileInputs.cache
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.Asp.netWeb_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Asp.netWeb_API.props
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Asp.netWeb_API.props
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Asp.netWeb_API.props
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\scopedcss\bundle\Asp.netWeb_API.styles.css
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.csproj.CopyComplete
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.dll
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\refint\Asp.netWeb_API.dll
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.pdb
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\Asp.netWeb_API.genruntimeconfig.cache
+E:\Projects\Diary\Asp.netWeb_API\obj\Debug\net7.0\ref\Asp.netWeb_API.dll

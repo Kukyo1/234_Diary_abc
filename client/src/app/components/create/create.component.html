@@ -1,0 +1,15 @@
+<div class="container">
+  <form [formGroup]="noteForm" (ngSubmit)="Create()">
+    <input
+      class="title"
+      formControlName="title"
+      type="text"
+      placeholder="Title"
+    />
+    <angular-editor
+      formControlName="body"
+      [config]="editorConfig"
+    ></angular-editor>
+    <button class="btn" type="submit">Create</button>
+  </form>
+</div>
